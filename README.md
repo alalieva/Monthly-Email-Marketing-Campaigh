@@ -28,7 +28,10 @@ Additionally, I incorporated several mechanisms to introduce realistic variation
 - **Purchase behavior** — the average transaction amount varies by email type: Welcome emails tend to generate smaller purchases, whereas Cart Reminder emails lead to higher-value transactions.
 
 ## :bar_chart: Tableau Dashboard Features
-You can explore the interactive Tableau dashboard [here](https://public.tableau.com/app/profile/alesia.alieva/viz/MonthlyEmailMarketingCampaighConversionRate/DashboardLAST#1).  
+You can explore the interactive Tableau dashboard [here](https://public.tableau.com/app/profile/alesia.alieva/viz/MonthlyEmailMarketingCampaighConversionRate/DashboardLAST#1).   
+
+![Email Campaign Dashboard](https://private-user-images.githubusercontent.com/77228507/513427712-1a91ba0d-85a3-49c8-bbbe-96a44e31efb5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI5NjU1NDUsIm5iZiI6MTc2Mjk2NTI0NSwicGF0aCI6Ii83NzIyODUwNy81MTM0Mjc3MTItMWE5MWJhMGQtODVhMy00OWM4LWJiYmUtOTZhNDRlMzFlZmI1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEyVDE2MzQwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM0NWFlOWU1N2E1ODQ1M2NkZTg2MTM1ZWVkNWM2NDBmY2MxYTNmNDBmYmM1ZjRjYzcwYWEwYjkxMDBlMzQ4NzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TSmsA4wpQFGIqQxjOZ5EdwWzFUe4c-Thts-HB6CmjJE)
+
 In Tableau, a dashboard was built to visualize all **key campaign metrics** on a monthly basis, as well as **the conversion funnel** for each email type.
 Additionally, the dashboard includes a **Weekly Conversion Trend**, showing how the conversion rate evolves week by week over the entire campaign period.
 
