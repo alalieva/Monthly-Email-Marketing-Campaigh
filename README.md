@@ -1,4 +1,4 @@
-# :e-mail:  Monthly-Email-Marketing-Campaigh 
+# :e-mail:  Monthly-Email-Marketing-Campaign 
 
 This project simulates and visualizes the performance of an email marketing campaign using a synthetic dataset generated in Python.
 The dataset models customer interactions with marketing emails — including opens, clicks, and purchases — over a two-year period (2023–2024).
