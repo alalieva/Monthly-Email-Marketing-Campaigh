@@ -13,7 +13,7 @@ The resulting Tableau dashboard presents key engagement metrics by month and a c
 
 ## :dna: Dataset Generation
 
-Using Python and the Faker library, I [built a synthetic dataset](https://github.com/alalieva/Monthly-Email-Marketing-Campaigh/blob/main/Generate%20Email_Campaign.ipynb) that simulates customer interactions with marketing emails. Each customer could receive up to 5 emails, one per day, with different message types: 
+Using Python and the Faker library, I built a [synthetic dataset](https://github.com/alalieva/Monthly-Email-Marketing-Campaigh/blob/main/Generate%20Email_Campaign.ipynb) that simulates customer interactions with marketing emails. Each customer could receive up to 5 emails, one per day, with different message types: 
 **Welcome, Promotion, New Product, Cart Reminder, Reactivation**.
 
 For each email, the following events were simulated:
